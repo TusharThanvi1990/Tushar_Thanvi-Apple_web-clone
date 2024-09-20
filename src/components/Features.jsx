@@ -41,7 +41,7 @@ const Features = () => {
         
         <div className="flex flex-col justify-center items-center overflow-hidden">
           <div className="mt-32 mb-24 pl-24">
-            <h2 className="text-5xl lg:text-7xl font-semibold">iPhone.</h2>
+            <h2 className="text-5xl lg:text-7xl font-semibold">Product.</h2>
             <h2 className="text-5xl lg:text-7xl font-semibold">Forged in titanium.</h2>
           </div>
 
@@ -67,7 +67,7 @@ const Features = () => {
                   <p className="feature-text g_text">
                     iPhone 15 Pro is {' '}
                     <span className="text-white">
-                      the first iPhone to feature an aerospace-grade titanium design
+                      the first Product to feature an aerospace-grade titanium design
                     </span>,
                     using the same alloy that spacecrafts use for missions to Mars.
                   </p>
