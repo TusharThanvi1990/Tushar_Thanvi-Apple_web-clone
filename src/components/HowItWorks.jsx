@@ -41,7 +41,7 @@ const HowItWorks = () => {
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
+            It's here. The biggest redesign in the history of Product's GPUs.
           </p>
         </div>
 
@@ -66,7 +66,7 @@ const HowItWorks = () => {
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
                   <p className="hiw-text g_fadeIn">
-                    A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
+                    Product Pro is an entirely new class of iPhone chip that delivers our {' '}
                     <span className="text-white">
                       best graphic performance by far
                     </span>.
