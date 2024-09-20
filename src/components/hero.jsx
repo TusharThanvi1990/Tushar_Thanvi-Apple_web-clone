@@ -33,7 +33,7 @@ function Hero() {
   return (
     <section className='w-full nav-height bg-black reletive'>
       <div className='h-5/6 flex-center w-full flex-col'>
-        <p id='Hero' className='hero-title'>Tushar's web clone of </p>
+        <p id='Hero' className='hero-title'>Tushar Thanvi's web clone of </p>
         <p id='Hero' className='hero-title'>iPhone 15Pro</p>
         <div className='md:w-10/12 w-9/12'>
           <video autoPlay muted playsInline={true} key={Videosrc} className='pointer-events-none'>
