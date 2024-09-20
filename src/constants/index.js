@@ -15,7 +15,7 @@ import {
     {
       id: 1,
       textLists: [
-        "Enter A17 Pro.",
+        "Enter Product Pro.",
         "Game‑changing chip.",
         "Groundbreaking performance.",
       ],
@@ -31,9 +31,9 @@ import {
     {
       id: 3,
       textLists: [
-        "iPhone 15 Pro Max has the",
+        "Product Pro Max has the",
         "longest optical zoom in",
-        "iPhone ever. Far out.",
+        "Product ever. Far out.",
       ],
       video: highlightThirdVideo,
       videoDuration: 2,
@@ -49,25 +49,25 @@ import {
   export const models = [
     {
       id: 1,
-      title: "iPhone 15 Pro in Natural Titanium",
+      title: "Product Pro in Natural Titanium",
       color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
       img: yellowImg,
     },
     {
       id: 2,
-      title: "iPhone 15 Pro in Blue Titanium",
+      title: "Product Pro in Blue Titanium",
       color: ["#53596E", "#6395ff", "#21242e"],
       img: blueImg,
     },
     {
       id: 3,
-      title: "iPhone 15 Pro in White Titanium",
+      title: "Product Pro in White Titanium",
       color: ["#C9C8C2", "#ffffff", "#C9C8C2"],
       img: whiteImg,
     },
     {
       id: 4,
-      title: "iPhone 15 Pro in Black Titanium",
+      title: "Product Pro in Black Titanium",
       color: ["#454749", "#3b3b3b", "#181819"],
       img: blackImg,
     },
